@@ -1,5 +1,3 @@
-Lab_5_game
-==========
 Objective
 =========
 The main point of this game was to allow a player to move from the top left corner of the LCD screen to the bottom right corner of the screen. The player moved by using up, down, left, and right button presses, and if they did not press a button within 2 seconds, the game ended and they lost.
